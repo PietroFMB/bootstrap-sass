@@ -1,0 +1,18 @@
+$accordion-color:                         rgba(3, 9, 32, 0.8);
+$accordion-bg:                            rgb(119, 190, 223);
+
+$card-title-color:                  #520707;
+$card-subtitle-color:               #520707;
+$card-border-radius:                6%;
+
+$carousel-transition-duration:       .5s;
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/variables-dark";
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
+@import "../node_modules/bootstrap/scss/functions";
